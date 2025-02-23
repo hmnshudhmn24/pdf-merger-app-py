@@ -33,6 +33,3 @@ pdf_merger/
 ├── merged_pdfs/ (Stores merged PDFs)
 ├── README.md
 ```
-
-## License
-This project is for educational purposes and is free to use.
